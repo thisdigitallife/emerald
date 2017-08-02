@@ -20,7 +20,7 @@ Get to know us below and  feel free to reach out over social media:
 He is a web developer and technical writer by profession. He lives in Kolkata and loves food. (No wonder he is **that fat**). But that does not deter him from taking on treks and cycling trips.  
 
 He currently owns a basic single speed bicycle. 
-![BTWin My Bike][mybikeimage]{: .prettyprint}  
+![BTWin My Bike][mybikeimage]{: .alignright}  
 He also likes making stuff specially electronic projects  
 
 Get in touch with him on social media or check out his instagram for some varied pics  
