@@ -23,8 +23,8 @@ He currently owns a basic single speed bicycle.
 He also likes making stuff specially electronic projects  
 
 Get in touch with him on social media or check out his instagram for some varied pics  
-[Web Home cum Blog](https://pradyumnac.github.io)  
-[facebook](https://fb.me/pradyumnacster)  
+[Webpage](https://pradyumnac.github.io)  
+[Facebook](https://fb.me/pradyumnacster)  
 [Twitter](https://twitter.com/pradyumac)  
 [Instagram](https://www.instagram.com/pradyumnacster)  
 
