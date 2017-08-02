@@ -11,10 +11,11 @@ When no travelling, we write. We just love writing. While at our base camp(Home)
 Apart from travelling, We are deeply interested in technology and how it chnages our live. If you are interested, Please go through our other blogs whihc are not related to travel
 
 Get to know us below and  feel free to reach out over social media:  
-[Twitter][2f-twitter-url] 
-[Instagram][https://www.instagram.com/2and2feet/]  
+[Twitter][2f-twitter-url]  
+[Instagram][2f-instagram-url]   
 
 
+## Authors  
 ### Pradyumna Chatterjee
 He is a web developer and technical writer by profession. He lives in Kolkata and loves food. (No wonder he is that fat). But that does not deter him from taking on treks and cycling trips.  
 
