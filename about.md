@@ -22,14 +22,14 @@ He currently owns a basic single speed bicycle.
 ![BTWin My Bike][mybikeimage]
 He also likes making stuff specially electronic projects  
 
-Get in touch with him on social media or check out his instagram for some varied pics
+Get in touch with him on social media or check out his instagram for some varied pics  
 [Web Home cum Blog](https://pradyumnac.github.io)  
 [facebook](https://fb.me/pradyumnacster)  
 [Twitter](https://twitter.com/pradyumac)  
-[Instagram](https://www.instagram.com/pradyumnacster)
----
-References section
----
+[Instagram](https://www.instagram.com/pradyumnacster)  
+
+[//]: <> # (References section  )
+
 [mybikeimage]: https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg Mysingle speed bicycle
 [2f-twitter-url]: https://twitter.com/on2feet Blog Twitter Handle
 [2f-instagram-url]: https://www.instagram.com/2and2feet/
