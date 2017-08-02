@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-published: true
+title: About
+published: false
 ---
 ## About Us
 **On Two Feet** is our way of sharing our travel stories with you. We travel frugally, ride with locals, live like locals when we travel. We shun all commercialisation in travel industry.
