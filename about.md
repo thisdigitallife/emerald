@@ -38,4 +38,4 @@ Get in touch with him on social media or check out his instagram for some varied
 [prad-twitter-url]: https://pradyumnac.github.io "Pradyumna's twitter page"
 [prad-instagram-url]: https://pradyumnac.github.io "Pradyumna's instagram page"
 
-[post-travelplansection-url]: /travel-plans
+[post-travelplansection-url]: /travel-plans "Posts on budgetfriendly travel plans"
