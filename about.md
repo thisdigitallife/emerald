@@ -11,16 +11,19 @@ When no travelling, we write. We just love writing. While at our base camp(Home)
 Apart from travelling, We are deeply interested in technology and how it chnages our live. If you are interested, Please go through our other blogs whihc are not related to travel
 
 Get to know us below and  feel free to reach out over social media:
+(Twitter)[https://twitter.com/on2feet]
+
+
 
 ### Pradyumna Chatterjee
-He is a web developer and technical writer by profession. He lives in Kolkata and loves food. (No wonder he is that fat). But that does not deter him from taking on treks and cycling trips.
+He is a web developer and technical writer by profession. He lives in Kolkata and loves food. (No wonder he is that fat). But that does not deter him from taking on treks and cycling trips.  
 
 He currently owns a basic single speed bicycle. 
 [BTWin My Bike](https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg)
-He also likes making stuff specially electronic projects
+He also likes making stuff specially electronic projects  
 
 Get in touch with him on social media or check out his instagram for some varied pics
-[Web Home cum Blog](https://pradyumnac.github.io)
-[facebook](https://fb.me/pradyumnacster)
-[Twitter](https://twitter.com/pradyumac)
-[Instagram](https://www.instagram.com/pradyumnacster)
+[Web Home cum Blog](https://pradyumnac.github.io)  
+[facebook](https://fb.me/pradyumnacster)  
+[Twitter](https://twitter.com/pradyumac)  
+[Instagram](https://www.instagram.com/pradyumnacster)  
