@@ -13,7 +13,7 @@ Apart from travelling, We are deeply interested in technology and how it chnages
 Get to know us below and  feel free to reach out over social media:  
 [Twitter][2f-twitter-url]  
 [Instagram][2f-instagram-url]   
-
+![Icon]({{site.baseurl}}/mountains-31589_1280.png)
 
 ## Authors  
 ### Pradyumna Chatterjee
