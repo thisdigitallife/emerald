@@ -19,7 +19,7 @@ Get to know us below and  feel free to reach out over social media:
 He is a web developer and technical writer by profession. He lives in Kolkata and loves food. (No wonder he is that fat). But that does not deter him from taking on treks and cycling trips.  
 
 He currently owns a basic single speed bicycle. 
-![BTWin My Bike][mybike-image]
+![BTWin My Bike][mybikeimage]
 He also likes making stuff specially electronic projects  
 
 Get in touch with him on social media or check out his instagram for some varied pics
@@ -30,7 +30,7 @@ Get in touch with him on social media or check out his instagram for some varied
 ---
 References section
 ---
-[mybike-image]: https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg Mysingle speed bicycle
+[mybikeimage]: https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg Mysingle speed bicycle
 [2f-twitter-url]: https://twitter.com/on2feet Blog Twitter Handle
 [2f-instagram-url]: https://www.instagram.com/2and2feet/
 [prad-website-url]: https://pradyumnac.github.io
