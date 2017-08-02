@@ -7,7 +7,7 @@ author:
   url: "http://pradyumnac.github.io"
 
 # Build settings
-baseurl: /travel # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /ontwofeet # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
