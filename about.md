@@ -11,8 +11,8 @@ When no travelling, we write. We just love writing. While at our base camp(Home)
 Apart from travelling, We are deeply interested in technology and how it chnages our live. If you are interested, Please go through our other blogs whihc are not related to travel
 
 Get to know us below and  feel free to reach out over social media:  
-(Twitter)[https://twitter.com/on2feet]  
-(Instagram)[https://www.instagram.com/2and2feet/]  
+[Twitter][2f-twitter-url] 
+[Instagram][https://www.instagram.com/2and2feet/]  
 
 
 ### Pradyumna Chatterjee
@@ -32,8 +32,8 @@ Get in touch with him on social media or check out his instagram for some varied
 
 [mybikeimage]: https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg "Mysingle speed bicycle"
 [2f-twitter-url]: https://twitter.com/on2feet "Blog Twitter Handle"
-[2f-instagram-url]: https://www.instagram.com/2and2feet/
-[prad-website-url]: https://pradyumnac.github.io
+[2f-instagram-url]: https://www.instagram.com/2and2feet/ "Blog Instagram Handle"
+[prad-website-url]: https://pradyumnac.github.io "Pradyumna's Web Profile page"
 [prad-facebook-url]: https://pradyumnac.github.io
 [prad-twitter-url]: https://pradyumnac.github.io
 [prad-instagram-url]: https://pradyumnac.github.io
