@@ -6,7 +6,7 @@ published: false
 ## About Us
 **On Two Feet** is our way of sharing our travel stories with you. We travel frugally, ride with locals, live like locals when we travel. We shun all commercialisation in travel industry.
 
-When no travelling, we write. We just love writing. While at our base camp(Home), we love making plans een if we know that we cannot take that trip due to time and money constraints. Ans we share those tarvel plans under section [Travel Plans][post-travelplansection-url]. They are detailed, budget focussed and if you are like us, you will like them.  
+When not travelling, we write. We just love writing. While at our base camp(Home), we love making plans even if we know that we cannot take that trip due to time and money constraints. Ans we share those travel plans under section [Travel Plans][post-travelplansection-url]. They are detailed, budget focussed and if you are like us, you will like them.  
 
 Apart from travelling, We are deeply interested in technology and how it chnages our live. If you are interested, Please go through our other blogs ( Note: they are not related to travel)
 
