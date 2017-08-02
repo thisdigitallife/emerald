@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About The Blog
-published: true
+title: About Us
+published: false
 ---
 ## About Us
 **On Two Feet** is our way of sharing our travel stories with you. We travel frugally, ride with locals, live like locals when we travel. We shun all commercialisation in travel industry.
@@ -39,4 +39,4 @@ Get in touch with him on social media or check out his instagram for some varied
 [prad-twitter-url]: https://pradyumnac.github.io "Pradyumna's twitter page"  
 [prad-instagram-url]: https://pradyumnac.github.io "Pradyumna's instagram page"  
   
-[post-travelplansection-url]: /travel-plans "Posts on budgetfriendly travel plans"  
+[post-travelplansection-url]: /travel-plans "Posts on budgetfriendly travel plans"
