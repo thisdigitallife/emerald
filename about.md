@@ -12,7 +12,7 @@ Apart from travelling, We are deeply interested in technology and how it chnages
 
 Get to know us below and  feel free to reach out over social media:
 (Twitter)[https://twitter.com/on2feet]
-
+(Instagram)[https://www.instagram.com/2and2feet/]
 
 
 ### Pradyumna Chatterjee
