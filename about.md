@@ -30,8 +30,8 @@ Get in touch with him on social media or check out his instagram for some varied
 ---
 References section
 ---
-[mybike-image]: https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg
-[2f-twitter-url]: https://twitter.com/on2feet
+[mybike-image]: https://n1.sdlcdn.com/imgs/b/t/2/BTWIN-My-Bike-SDL997652901-1-0d4b7.jpg Mysingle speed bicycle
+[2f-twitter-url]: https://twitter.com/on2feet Blog Twitter Handle
 [2f-instagram-url]: https://www.instagram.com/2and2feet/
 [prad-website-url]: https://pradyumnac.github.io
 [prad-facebook-url]: https://pradyumnac.github.io
