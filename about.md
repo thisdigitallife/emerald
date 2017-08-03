@@ -15,6 +15,8 @@ Get to know us below and  feel free to reach out over social media:
 [Instagram][2f-instagram-url]   
 ![Icon]({{site.baseurl}}/mountains-31589_1280.png)
 
+<a class="twitter-timeline" data-width="220" data-height="300" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/on2feet">Tweets by on2feet</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Authors  
 ### Pradyumna Chatterjee
 He is a web developer and technical writer by profession. He lives in Kolkata and loves food. (No wonder he is **that fat**). But that does not deter him from taking on treks and cycling trips.  
