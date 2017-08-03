@@ -1,5 +1,5 @@
 ---
-type: static
+layout: static
 ---
 ## Thank you
 
