@@ -1,3 +1,3 @@
-## A New Post
+## Thank you
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Thank you for subscribing. Click [here](https://thisdigitallife.github.io/ontwofeet/) to return to the homepage
