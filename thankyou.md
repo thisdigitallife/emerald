@@ -1,5 +1,7 @@
 ---
 layout: static
+published: true
+type: static
 ---
 ## Thank you
 
