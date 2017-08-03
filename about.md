@@ -13,9 +13,7 @@ Apart from travelling, We are deeply interested in technology and how it chnages
 Get to know us below and  feel free to reach out over social media:  
 [Twitter][2f-twitter-url]  
 [Instagram][2f-instagram-url]   
-![Icon]({{site.baseurl}}/mountains-31589_1280.png)
-
-<a class="twitter-timeline" data-width="220" data-height="300" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/on2feet">Tweets by on2feet</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="220" data-height="300" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/on2feet">Tweets by on2feet</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 ## Authors  
 ### Pradyumna Chatterjee
