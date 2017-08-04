@@ -11,7 +11,11 @@
  .icon-impressions { color: blue; }  
  .centertext { text-align: center; }
  
- .clear-left {
+ .float-left {
  	display: block;
  	float: left;
+ }
+ 
+ .clear-right {
+ 	clear: right;
  }
