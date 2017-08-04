@@ -26,6 +26,7 @@ defaults:
 
 # Plugins
 gems:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
 
