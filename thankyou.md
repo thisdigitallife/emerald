@@ -1,7 +1,8 @@
 ---
-layout: static
+layout: default
 published: true
 type: static
+sitemap: false
 ---
 ## Thank you
 
