@@ -1,6 +1,6 @@
 # Site settings
-title: On Two Feet - A Travelogue by Two Indian Backpackers
-description: "A Travel blog by Two Indian backpackers."
+title: On Two Feet - A Travelogue
+description: "A travel journal written by two indian backpackers."
 url: "http://thisdigitallife.github.io"
 author:
   name: "Pradyumna Chattopadhyay, Souvik Ghosh"
@@ -42,5 +42,3 @@ reverse: false
 twitter:
   username: on2feet
 logo: /img/emerald.svg
-description: "A travel blog by two indian backpackers -  Pradyumna & souvik"
-title: "On Two Feet"
