@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 published: true
 type: static
 sitemap: false
