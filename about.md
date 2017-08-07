@@ -29,7 +29,10 @@ Get in touch with him on social media or check out his instagram for some varied
 [Instagram][prad-instagram-url]  
 
 ### Souvik Ghosh
-He is a faculty in West Bengal Usiversity of Technology and is currently pursing his PHD on improving solar cell efficiency through alternate materials. He lives in Kolkata as well and loves spending his time in social worl. Not to mention, he blogs on topics that hold him dear. While he is not in front of a terminal, he is learning to play a guitar. He plays songs on his Greg Bennett acoustic guitar and on his ESP Les-Paul electric guitar
+He is a faculty in West Bengal Usiversity of Technology and is currently pursing his PHD on improving solar cell efficiency through alternate materials. He lives in Kolkata as well and loves spending his time in social work. 
+Not to mention, he blogs on topics that holds him dear. 
+
+While he is not in front of a terminal, he is learning to play a guitar. He plays songs on his Greg Bennett acoustic guitar and on his ESP Les-Paul electric guitar
 
 
 Get in touch with him on social media or follow his blog where keeps his previous travel journal   ( Along with Pradyumna)  
