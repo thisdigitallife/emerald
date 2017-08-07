@@ -34,8 +34,8 @@ Get in touch with him on social media or check out his instagram for some varied
 [2f-twitter-url]: https://twitter.com/on2feet "Blog Twitter Handle"  
 [2f-instagram-url]: https://www.instagram.com/2and2feet/ "Blog Instagram Handle"  
 [prad-website-url]: https://pradyumnac.github.io "Pradyumna's webprofile page"  
-[prad-facebook-url]: https://pradyumnac.github.io "Pradyumna's facebook page"  
-[prad-twitter-url]: https://pradyumnac.github.io "Pradyumna's twitter page"  
-[prad-instagram-url]: https://pradyumnac.github.io "Pradyumna's instagram page"  
+[prad-facebook-url]: https://www.facebook.com/pradyumnacster "Pradyumna's facebook page"  
+[prad-twitter-url]: https://twitter.com/pradyumnacster "Pradyumna's twitter page"  
+[prad-instagram-url]: https://www.instagram.com/pradyumnacster/ "Pradyumna's instagram page"  
   
 [post-travelplansection-url]: /travel-plans "Posts on budgetfriendly travel plans"
