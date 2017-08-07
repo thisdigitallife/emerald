@@ -25,7 +25,7 @@ He also likes making stuff specially electronic projects
 Get in touch with him on social media or check out his instagram for some varied pics  
 [Webpage][prad-website-url]  
 [Facebook][prad-facebook-url]  
-[Twitter][prad-website-url]  
+[Twitter][prad-twitter-url]  
 [Instagram][prad-instagram-url]  
 
 [//]: <> # (References section  )  
