@@ -42,3 +42,6 @@ reverse: false
 twitter:
   username: on2feet
 logo: /img/emerald.svg
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, thankyou.md]
