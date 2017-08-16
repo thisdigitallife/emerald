@@ -17,3 +17,5 @@ As you might agree, it's better to catalog the information in multiple sub posts
 What I am not willing to write is my own travelogue here. **Hell, I have never been to this place, yet :)**
 
 With all that might information, let's get started with the section below. Feel free to browse as per you choice of order and area of interest 
+
+*As might be obvious, more to come ;)*
