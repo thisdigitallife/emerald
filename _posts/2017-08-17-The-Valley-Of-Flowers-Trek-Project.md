@@ -8,7 +8,9 @@ So why do I call this a project? Well, a post from a fellow trekker mentioned th
 
 So what do I intend to write here, you ask? I want to make this an authorative go to place for all information on The Valley. Be it  pictures, information on trek routes, travel information to and fro, information on plants and animals species found there, early exploration information, links to other people travelogues and all that. This page will have something in it for everyone who is seeking information about this mystic land
 
-As you might agree, it's better to catalog the information in multiple sub posts : each dealing with a specific area of interest. This page will serve as a cover page for all that information properly arranged.
+As you might agree, it's better to catalog the information in multiple sub posts : each dealing with a specific area of interest. This page will serve as a cover page for all that information properly arranged. 
+
+*I don't wish to be seen as an expert on the area, just a librarian who arranges it's books on the shelves*
 
 What I am not willing to write is my own travelogue here. **Hell, I have never been to this place, yet :)**
 
