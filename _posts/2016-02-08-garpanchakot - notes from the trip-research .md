@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Garpanchakot - Notes from the Trip Research
 ---
 # Garpanchakot Kill
