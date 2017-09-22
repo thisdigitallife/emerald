@@ -1,10 +1,11 @@
 ---
 published: false
+title: Keonjhar - Notes from the Trip research
 ---
 ## Keonjhar
 ## Trip Research
 
-###Get in/Get out:
+### Get in/Get out:
 * Chennai Mail at 23:45 from HWH, 4:45 am at Jajkur - keonjhar, then rented car or bus (3 - 4 hrs)
 * Panthasala at Keonjhar is outside town but beautiful (On road to Sambalpur). Came up at around 2008. Surrounded by hills
 	* Hill view tower towards the forest. Have to pass through elephant corridor
@@ -61,33 +62,37 @@ published: false
 #### A bit about Keonjhar
 * The prominent tribal communities that reside in the Keonjhar district include Santhal, Oraon and Munda  
 * The Vaitarani River goes underground for a while and comes to be known as the Guptganga just before it springs to the surface again. The emergence point of the Guptganga resembles the flared nostrils of a cow, thereby enhancing the religious significance of the river and the town.  
-A bit about the Khandadhar Falls and KhandaDhar Hills region:
 
-Kurmitar mine on the Khandadhar hill range spread over133 hectares.
-The state owned Odisha Mineral Corporation has mines in the area spread over 1,212.hactares
+
+### A bit about the Khandadhar Falls and KhandaDhar Hills region:
+* Kurmitar mine on the Khandadhar hill range spread over 133 hectares.
+	* The state owned Odisha Mineral Corporation has mines in the area spread over 1,212.hactares
 Odisha government intends to lease out 2,500 hectares to POSCO India
-Surrounded by dense forests, the area is known as the 'rice bowl' of tribals, mostly Bhuyans, as they depend on it for their livelihood.
-They have united under the banners of Khandadhara Surakshya Mancha and Lok Sangathan and have been fighting to save the forest and their livelihood.
-Mining will not only lead to heavy pollution but also damage the Shiva temple, worshipped by thousands of locals, he said
-The strikingly coloured rocks that give Khandadhara its beauty are red jasper and black hematite—both made of iron
-split-rock waterfall
-The Pauri Bhuiya never cut down a shade or fruit tree, so the mountaintop abounds with nourishment.
-The pristine, ancient jungles are home to elephants, sloth bears, leopards, gaur, pythons, peacocks, tigers and a rare limbless lizard—a keystone species that testifies to the richness of the ecosystem.
-Driven out by the blasting and loss of habitat, the elephants have begun emerging in the plains. A tigress appeared in January near Phuljhar, at the foot of the mountain.
-In April, the forest department burned down the huts and food stores of some 20 Pauri Bhuiya families who had come off the mountain and were sheltering in jungles that had been their own.
-The destruction of the forest and the diversion of a mountaintop stream by KCCL has caused the Khandadhara waterfall to partially dry up
-Raw material supply is key to Odisha's ambition of becoming the largest steel producer in the country. The state has over five billion tonne of iron ore deposits and has signed memorandum of understanding (MoU) with 50 companies for setting up of steel projects with a combined projected capacity of 83 million tonne at total estimated investment of over Rs 2 lakh crore. ( As of 2012)
-Further Reading:
-[1] Indiamike TR ( Short, Jul 2010) 
-[2] Tribals protest against mining activities in Khandadhar Hills (20/10/2012) 
-[3] Khandadhar Falls, Orissa Tourism 
-[4] Mining In Khandadhara (Outlook India, 11/06/2012) 
-[5] Trekking along the banks of Baitirani 
-[6] Train woes at Keonjhar - Jajpur road (TOI) 
-[7] extensive info on keonjhar from OTDC 
-[8] A good account of keonjhar. Very useful resource to travel by bus 
-[9] Veg Tour to Keonjhar ;)
+	* Surrounded by dense forests, the area is known as the 'rice bowl' of tribals, mostly Bhuyans, as they depend on it for their livelihood.
+	* They have united under the banners of Khandadhara Surakshya Mancha and Lok Sangathan and have been fighting to save the forest and their livelihood.
+	* Mining will not only lead to heavy pollution but also damage the Shiva temple, worshipped by thousands of locals, he said
+* The strikingly coloured rocks that give Khandadhara its beauty are red jasper and black hematite—both made of iron
+* Split-rock waterfall
+* The Pauri Bhuiya never cut down a shade or fruit tree, so the mountaintop abounds with nourishment.
+* The pristine, ancient jungles are home to elephants, sloth bears, leopards, gaur, pythons, peacocks, tigers and a rare limbless lizard—a keystone species that testifies to the richness of the ecosystem.
+* Driven out by the blasting and loss of habitat, the elephants have begun emerging in the plains. A tigress appeared in January near Phuljhar, at the foot of the mountain.
+* In April, the forest department burned down the huts and food stores of some 20 Pauri Bhuiya families who had come off the mountain and were sheltering in jungles that had been their own.
+* The destruction of the forest and the diversion of a mountaintop stream by KCCL has caused the Khandadhara waterfall to partially dry up
+* Raw material supply is key to Odisha's ambition of becoming the largest steel producer in the country. The state has over five billion tonne of iron ore deposits and has signed memorandum of understanding (MoU) with 50 companies for setting up of steel projects with a combined projected capacity of 83 million tonne at total estimated investment of over Rs 2 lakh crore. ( As of 2012)
+
+### Further Reading:
+[[1]](http://www.indiamike.com/india/off-the-beaten-trail-in-india-f45/keonjhar-t113952/) Indiamike TR ( Short, Jul 2010) 
+[[2]](http://timesofindia.indiatimes.com/city/bhubaneswar/Keonjhar-tribals-up-in-arms-over-mining-plans-in-Khandadhar/articleshow/17013489.cms?referral=PM) Tribals protest against mining activities in Khandadhar Hills (20/10/2012) 
+[[3]](http://ordistricts.nic.in/district_profile/travel_and_tourism/tp_details.php?id=128) Khandadhar Falls, Orissa Tourism 
+[[4]](http://www.outlookindia.com/article/the-death-of-a-waterfall/281092) Mining In Khandadhara (Outlook India, 11/06/2012) 
+[[5]](http://www.indiamike.com/india/odisha-orissa-f33/trekking-along-the-bank-of-the-baitarani-t85295/) Trekking along the banks of Baitirani 
+[[6]](http://timesofindia.indiatimes.com/city/bhubaneswar/High-court-moved-again-for-Rajdhani-stop-on-Jajpur-Keonjhar-Road-station/articleshow/16555787.cms) Train woes at Keonjhar - Jajpur road (TOI) 
+[[7]](http://kendujhar.nic.in/tourism_culture/tourismcul.htm) extensive info on keonjhar from OTDC 
+[[8]](http://ourtravelindia.blogspot.in/2009/09/keonjhar-and-its-surroundings.html) A good account of keonjhar. Very useful resource to travel by bus 
+[[9]](http://nitaigaurmantra.blogspot.in/2014/02/for-vaishnavs-visiting-keonjhar.html) Veg Tour to Keonjhar ;)
 
 http://satyeshnaik.blogspot.in/2008/07/gonasika-origin-of-river-baitarani.html?m=1
 
 http://tourzones.com/place.php?id=Thakurani%20Hill
+
+*(Migrated from http://travelling-pradyumnacster.rhcloud.com/keonjhar/)*
