@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Keonjhar - Notes from the Trip research
 ---
 ## Keonjhar
