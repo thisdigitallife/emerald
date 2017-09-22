@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+### Roopkund - The Mystery Lake
+
 Based in Uttarakhand, the trek to Roopkund takes you through a lot of different landscapes from high altitude meadows, forested covers, snow patches and glaciers. Here is the trek in short:
 
 Duration: 8 Days
