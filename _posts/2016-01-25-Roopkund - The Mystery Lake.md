@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Roopkund - The Mystery Lake
 ---
 ![Roopkund - Frozen Lake]({{site.baseurl}}/_posts/Rk1-5.jpg)
