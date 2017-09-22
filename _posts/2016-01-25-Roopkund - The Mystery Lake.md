@@ -1,6 +1,10 @@
 ---
 published: false
+title: Roopkund - The Mystery Lake
 ---
+![Roopkund - Frozen Lake]({{site.baseurl}}/_posts/Rk1-5.jpg)
+
+
 ### Roopkund - The Mystery Lake
 
 Based in Uttarakhand, the trek to Roopkund takes you through a lot of different landscapes from high altitude meadows, forested covers, snow patches and glaciers. Here is the trek in short:
